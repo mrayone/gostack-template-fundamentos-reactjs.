@@ -20,4 +20,8 @@ export default createGlobalStyle`
   button {
     cursor: pointer;
   }
+
+  .selected {
+    border-bottom: 2px solid #FF872C;
+  }
 `;
